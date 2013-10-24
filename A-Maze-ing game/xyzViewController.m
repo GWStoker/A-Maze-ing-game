@@ -62,9 +62,9 @@ bounce3.duration = 2;
 bounce3.repeatCount = HUGE_VALF;
 bounce3.autoreverses = YES;
 [self.ghost3.layer addAnimation:bounce3 forKey:@"position"];
- 
-
-    [super viewDidLoad];
+ }
+{
+[super viewDidLoad]
 	// Do any additional setup after loading the view, typically from a nib.
 }
 - (void)didReceiveMemoryWarning
