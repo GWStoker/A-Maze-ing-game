@@ -55,7 +55,7 @@
 		048EFA501813441000A0E7CE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		048EFA521813441000A0E7CE /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		048EFA541813441000A0E7CE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		048EFA561813441000A0E7CE /* xyzViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xyzViewController.h; sourceTree = "<group>"; };
+		048EFA561813441000A0E7CE /* bob.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bob.h; sourceTree = "<group>"; };
 		048EFA571813441000A0E7CE /* xyzViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xyzViewController.m; sourceTree = "<group>"; };
 		048EFA5A1813441000A0E7CE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/xyzViewController.xib; sourceTree = "<group>"; };
 		048EFA611813441100A0E7CE /* A-Maze-ing gameTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A-Maze-ing gameTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -135,7 +135,7 @@
 			children = (
 				048EFA4D1813441000A0E7CE /* xyzAppDelegate.h */,
 				048EFA4E1813441000A0E7CE /* xyzAppDelegate.m */,
-				048EFA561813441000A0E7CE /* xyzViewController.h */,
+				048EFA561813441000A0E7CE /* bob.h */,
 				048EFA571813441000A0E7CE /* xyzViewController.m */,
 				048EFA591813441000A0E7CE /* xyzViewController.xib */,
 				048EFA451813441000A0E7CE /* Supporting Files */,
@@ -478,6 +478,7 @@
 				048EFA751813441100A0E7CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		048EFA761813441100A0E7CE /* Build configuration list for PBXNativeTarget "A-Maze-ing gameTests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +487,7 @@
 				048EFA781813441100A0E7CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
